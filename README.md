@@ -63,16 +63,3 @@ Feel free to fork, use, and improve it. PRs welcome! 🚀
 
 ---
 
-Recommender/
-├── README.md
-├── requirements.txt
-├── data/
-│   └── sample_ratings.csv
-├── notebooks/
-│   └── Collaborative_Filtering_Exploration.ipynb
-├── src/
-│   ├── __init__.py
-│   ├── data_loader.py
-│   ├── matrix_factorization.py
-│   └── deep_learning_model.py
-└── main.py
