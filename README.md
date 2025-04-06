@@ -7,10 +7,6 @@ This project demonstrates how to build recommendation systems using collaborativ
 project_root/
 ├── README.md                         # Project documentation
 ├── requirements.txt                  # Dependencies
-├── data/
-│   └── sample_ratings.csv           # Sample dataset (userId, itemId, rating)
-├── notebooks/
-│   └── Collaborative_Filtering_Exploration.ipynb  # Data exploration & model insights
 ├── src/
 │   ├── __init__.py
 │   ├── data_loader.py               # CSV data loading & validation
